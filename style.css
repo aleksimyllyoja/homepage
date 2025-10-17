@@ -1,0 +1,44 @@
+body {
+  font-size: 0.8em;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 1em;
+  margin-top: 2em;
+  white-space: pre;
+  letter-spacing: 0.05em;
+  font-weight: 400;
+  transition: 0.04s;
+}
+
+h2:first-of-type {
+  margin-top: 0.8em;
+}
+
+h2 a {
+  text-decoration: underline;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  white-space: pre-wrap;
+}
+
+p i {
+  letter-spacing: 0.01em;
+  font-weight: 00;
+}
+
+p b {
+  font-family: monospace;
+  font-weight: 100;
+}
